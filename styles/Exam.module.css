@@ -1,0 +1,34 @@
+.page {
+  min-height: 100vh;
+  background: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #000;
+  color: #fff;
+  padding: 15px 30px;
+}
+
+.timer {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.exit {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.content {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  line-height: 1.6;
+}
