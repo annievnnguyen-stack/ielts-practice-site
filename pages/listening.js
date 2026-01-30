@@ -9,8 +9,11 @@ export default function Listening() {
 You will hear a telephone conversation between a father and his daughter Hannah about 
 renting a flat. Look at questions 1 to 5. You will see that there is an example that has 
 been done for you. In the exam you would have about 30 seconds to read the questions.
-Now listen and answer questions 1 to 5.
       </p>
+<p style={{ marginTop: 20 }}>
+        <em>Now listen and answer questions 1 to 5.</em>
+      </p>
+
 
       {/* Audio */}
       <audio controls style={{ width: "100%", margin: "20px 0" }}>
@@ -23,14 +26,22 @@ Now listen and answer questions 1 to 5.
 
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
-          <tr>
-            <td>1. How long did Hannah think it would be before she found a place to live</td>
+          
+      <p>
+        <em>Now listen and answer questions 1 to 5.</em>
+      </p>
+
+<p><strong>Question 1: </strong></p>
+
+<td>How long did Hannah think it would be before she found a place to live</td>
 		<td>A.  Not more than two weeks</td>
 		<td>B.  Less than three weeks</td>
 		<td>C.  More than four weeks</td>
+	 
 		
+	
             <td>
-              <input type="text" placeholder="1 _______" />
+              <input type="text" placeholder="_" />
             </td>
           </tr>
 
