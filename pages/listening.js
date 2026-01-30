@@ -10,29 +10,6 @@ You will hear a telephone conversation between a father and his daughter Hannah 
 renting a flat. Look at questions 1 to 5. You will see that there is an example that has 
 been done for you. In the exam you would have about 30 seconds to read the questions.
 Now listen and answer questions 1 to 5.
-Questions 1–5
-Circle the appropriate letters A–C.
-Example
-Hannah’s father 
-A says her mother says hello.
-B cannot hear her very well.
-C wants her to video-call him.
-1  How long did Hannah think it would be before she found a place to live?
-A  Not more than two weeks.
-B  Less than three weeks.
-C  More than four weeks.
-2  According to Hannah, there is a lack rental accommodation because
-A it is the end of the academic year.
-B  the town is not very big.
-C  there are many new technology companies locally.
-3  The £400 rent is
-A  less than Hannah has paid before.
-B  subsidised for students by the university.
-C  expensive for where it is.
-4  Hannah is currently 
-A  in hotel accommodation.
-B  being put up by friends.
-C  staying in a student hostel.
       </p>
 
       {/* Audio */}
@@ -42,12 +19,12 @@ C  staying in a student hostel.
       </audio>
 
       {/* Questions */}
-      <h3>Library Membership Form</h3>
+      <h3>Circle the appropriate letters A–C</h3>
 
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>Name:</td>
+            <td>How long did Hannah think it would be before she found a place to live</td>
             <td>
               <input type="text" placeholder="1 _______" />
             </td>
@@ -70,7 +47,7 @@ C  staying in a student hostel.
           <tr>
             <td>Library card valid for:</td>
             <td>
-              <input type="text" placeholder="4 _______ months" />
+              <input type="text" placeholder="4 _______" />
             </td>
           </tr>
         </tbody>
