@@ -6,8 +6,10 @@ export default function Listening() {
       
       <p><strong>Section 1</strong></p>
       <p>
-        You will hear a conversation between a student and a receptionist.
-        Complete the form below. Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong>.
+You will hear a telephone conversation between a father and his daughter Hannah about 
+renting a flat. Look at questions 1 to 5. You will see that there is an example that has 
+been done for you. In the exam you would have about 30 seconds to read the questions.
+Now listen and answer questions 1 to 5.
       </p>
 
       {/* Audio */}
