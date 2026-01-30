@@ -2,24 +2,27 @@ import ExamLayout from "../components/ExamLayout";
 
 export default function Reading() {
   return (
-    <ExamLayout title="IELTS Reading Test" timeInMinutes={60}>
-      <h3>Reading Passage 1</h3>
+    <ExamLayout title="IELTS Reading" timeInMinutes={60}>
+      <article style={{ lineHeight: "1.7" }}>
+        <h3>Passage 1</h3>
 
-      <p>
-        The International English Language Testing System (IELTS) is designed to
-        assess the language ability of candidates who need to study or work where
-        English is used as the language of communication.
-      </p>
+        <p>
+          Climate change is one of the most pressing issues facing the modern world.
+          Scientists agree that rising global temperatures are largely caused by
+          human activities such as burning fossil fuels.
+        </p>
 
-      <h4>Question 1</h4>
-      <p>What is the main purpose of IELTS?</p>
+        <p>
+          Governments around the world are now seeking ways to reduce carbon
+          emissions while maintaining economic growth. Renewable energy sources
+          such as wind and solar power are becoming increasingly popular.
+        </p>
 
-      <ul>
-        <li>A. To test grammar only</li>
-        <li>B. To assess English ability for study or work</li>
-        <li>C. To teach English</li>
-        <li>D. To replace school exams</li>
-      </ul>
+        <p>
+          However, critics argue that transitioning away from fossil fuels is
+          expensive and may lead to job losses in traditional industries.
+        </p>
+      </article>
     </ExamLayout>
   );
 }
