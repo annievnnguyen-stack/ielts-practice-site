@@ -10,7 +10,7 @@ You will hear a telephone conversation between a father and his daughter Hannah 
 renting a flat. Look at questions 1 to 5. You will see that there is an example that has 
 been done for you. In the exam you would have about 30 seconds to read the questions.
 Now listen and answer questions 1 to 5.
-Questions 1–5 </strong>
+Questions 1–5
 Circle the appropriate letters A–C.
 Example
 Hannah’s father 
