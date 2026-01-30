@@ -6,14 +6,9 @@ export default function Listening() {
       
       <p><strong>Section 1</strong></p>
       <p>
-You will hear a telephone conversation between a father and his daughter Hannah about 
-renting a flat. Look at questions 1 to 5. You will see that there is an example that has 
-been done for you. In the exam you would have about 30 seconds to read the questions.
+        You will hear a conversation between a student and a receptionist.
+        Complete the form below. Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong>.
       </p>
-<p style={{ marginTop: 20 }}>
-        <em>Now listen and answer questions 1 to 5.</em>
-      </p>
-
 
       {/* Audio */}
       <audio controls style={{ width: "100%", margin: "20px 0" }}>
@@ -22,24 +17,39 @@ been done for you. In the exam you would have about 30 seconds to read the quest
       </audio>
 
       {/* Questions */}
-      <h3>Put the appropriate letters A–C</h3>
+      <h3>Library Membership Form</h3>
 
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
-          
-      <p>
-        <em>Now listen and answer questions 1 to 5.</em>
-      </p>
+          <tr>
+            <td>Name:</td>
+            <td>
+              <input type="text" placeholder="1 _______" />
+            </td>
+          </tr>
 
-<p><strong>Question 1: </strong></p>
+          <tr>
+            <td>Student ID:</td>
+            <td>
+              <input type="text" placeholder="2 _______" />
+            </td>
+          </tr>
 
-<td>How long did Hannah think it would be before she found a place to live</td>
-		<td>A.  Not more than two weeks</td>
-		<td>B.  Less than three weeks</td>
-		<td>C.  More than four weeks</td>
-	 
-		
-          
+          <tr>
+            <td>Course:</td>
+            <td>
+              <input type="text" placeholder="3 _______" />
+            </td>
+          </tr>
+
+          <tr>
+            <td>Library card valid for:</td>
+            <td>
+              <input type="text" placeholder="4 _______ months" />
+            </td>
+          </tr>
+        </tbody>
+      </table>
 
       <p style={{ marginTop: 20 }}>
         <em>You will hear the recording ONCE only.</em>
