@@ -24,7 +24,11 @@ Now listen and answer questions 1 to 5.
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>How long did Hannah think it would be before she found a place to live</td>
+            <td>1. How long did Hannah think it would be before she found a place to live</td>
+		<td>A.  Not more than two weeks</td>
+		<td>B.  Less than three weeks</td>
+		<td>C.  More than four weeks</td>
+		
             <td>
               <input type="text" placeholder="1 _______" />
             </td>
