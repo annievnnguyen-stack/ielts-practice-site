@@ -22,7 +22,7 @@ been done for you. In the exam you would have about 30 seconds to read the quest
       </audio>
 
       {/* Questions */}
-      <h3>Circle the appropriate letters A–C</h3>
+      <h3>Put the appropriate letters A–C</h3>
 
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
@@ -39,34 +39,7 @@ been done for you. In the exam you would have about 30 seconds to read the quest
 		<td>C.  More than four weeks</td>
 	 
 		
-	
-            <td>
-              <input type="text" placeholder="_" />
-            </td>
-          </tr>
-
-          <tr>
-            <td>Student ID:</td>
-            <td>
-              <input type="text" placeholder="2 _______" />
-            </td>
-          </tr>
-
-          <tr>
-            <td>Course:</td>
-            <td>
-              <input type="text" placeholder="3 _______" />
-            </td>
-          </tr>
-
-          <tr>
-            <td>Library card valid for:</td>
-            <td>
-              <input type="text" placeholder="4 _______" />
-            </td>
-          </tr>
-        </tbody>
-      </table>
+          
 
       <p style={{ marginTop: 20 }}>
         <em>You will hear the recording ONCE only.</em>
