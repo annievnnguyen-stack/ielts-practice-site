@@ -2,6 +2,19 @@ import { useEffect, useState } from "react";
 import styles from "../styles/Exam.module.css";
 import Link from "next/link";
 
+<header className={styles.header}>
+  <h2>{title}</h2>
+
+  <div className={styles.timer}>
+    ⏱️ {minutes}:{seconds.toString().padStart(2, "0")}
+  </div>
+
+  <Link href="/" className={styles.exit}>
+    ⬅ Back to Home
+  </Link>
+</header>
+
+
 export default function ExamLayout({ title, timeInMinutes, children }) {
   const [timeLeft, setTimeLeft] = useState(timeInMinutes * 60);
 
