@@ -30,40 +30,37 @@ export default function Listening() {
 
 
  {/* Questions */}
-      <h3>Type your answers in the box</h3>
 
+     <h3>Choose the correct answer (A, B or C)</h3>
 
-      <table style={{ width: "100%", borderCollapse: "collapse" }}>
-        <tbody>
-          <tr>
-            <td>Question 1</td>
-            <td>
-              <input type="text" placeholder="1 _" />
-            </td>
-          </tr>
+<div style={{ marginBottom: 20 }}>
+  <p><strong>1.</strong></p>
+  <label><input type="radio" name="q1" value="A" /> A</label><br />
+  <label><input type="radio" name="q1" value="B" /> B</label><br />
+  <label><input type="radio" name="q1" value="C" /> C</label>
+</div>
 
-          <tr>
-            <td>Question 2</td>
-            <td>
-              <input type="text" placeholder="2 _" />
-            </td>
-          </tr>
+<div style={{ marginBottom: 20 }}>
+  <p><strong>2.</strong></p>
+  <label><input type="radio" name="q2" value="A" /> A</label><br />
+  <label><input type="radio" name="q2" value="B" /> B</label><br />
+  <label><input type="radio" name="q2" value="C" /> C</label>
+</div>
 
-          <tr>
-            <td>Question 3</td>
-            <td>
-              <input type="text" placeholder="3 _" />
-            </td>
-          </tr>
+<div style={{ marginBottom: 20 }}>
+  <p><strong>3.</strong></p>
+  <label><input type="radio" name="q3" value="A" /> A</label><br />
+  <label><input type="radio" name="q3" value="B" /> B</label><br />
+  <label><input type="radio" name="q3" value="C" /> C</label>
+</div>
 
-          <tr>
-            <td>Question 4</td>
-            <td>
-              <input type="text" placeholder="4 _" />
-            </td>
-          </tr>
-        </tbody>
-      </table>
+<div style={{ marginBottom: 20 }}>
+  <p><strong>4.</strong></p>
+  <label><input type="radio" name="q4" value="A" /> A</label><br />
+  <label><input type="radio" name="q4" value="B" /> B</label><br />
+  <label><input type="radio" name="q4" value="C" /> C</label>
+</div>
+
 
       <p style={{ marginTop: 20 }}>
         <em>You will hear the recording ONCE only.</em>
