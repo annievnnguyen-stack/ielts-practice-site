@@ -22,30 +22,35 @@ export default function Listening() {
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>Name:</td>
+            <td>1. How long did Hannah think it would be before she found a place to live?</td>
             <td>
-              <input type="text" placeholder="1 _______" />
+              <input type="text" placeholder="1 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Student ID:</td>
+            <td>2. According to Hannah, there is a lack rental accommodation because</td>
             <td>
-              <input type="text" placeholder="2 _______" />
+              <input type="text" placeholder="2 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Course:</td>
+            <td>3. The £400 rent is</td>
             <td>
-              <input type="text" placeholder="3 _______" />
+              <input type="text" placeholder="3 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Library card valid for:</td>
+            <td>4. Hannah is currently</td>
             <td>
-              <input type="text" placeholder="4 _______ months" />
+              <input type="text" placeholder="4 _" />
+            </td>
+          <tr>
+            <td>Hannah is currently </td>
+            <td>
+              <input type="text" placeholder="5 _" />
             </td>
           </tr>
         </tbody>
