@@ -21,6 +21,10 @@ export default function Listening() {
 <p><strong>C</strong> wants her to video-call him.</p>
 
 
+      <p style={{ marginTop: 20 }}>
+        <em>You will hear the recording ONCE only.</em>
+      </p>
+
 
       {/* Audio */}
       <audio controls style={{ width: "100%", margin: "20px 0" }}>
@@ -38,19 +42,19 @@ export default function Listening() {
 </p>
  
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="A" />
+<label><input type="radio" name="q1" value="A" />
 A. Not more than two weeks. 
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="B" />
+<label><input type="radio" name="q1" value="B" />
 B. Less than three weeks.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="C" />
+<label><input type="radio" name="q1" value="C" />
 C. More than four weeks. 
 </label>
 </p>
@@ -62,19 +66,19 @@ C. More than four weeks.
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="A" />
+<label><input type="radio" name="q2" value="A" />
 A. It is the end of the academic year.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="B" />
+<label><input type="radio" name="q2" value="B" />
 B. The town is not very big. 
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="C" />
+<label><input type="radio" name="q2" value="C" />
 C. There are many new technology companies locally. 
 </label>
 </p>
@@ -85,19 +89,19 @@ C. There are many new technology companies locally.
   <p><strong>QUESTION 3.</strong> The £400 rent is </p>
   
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="A" />
+<label><input type="radio" name="q3" value="A" />
 A. Less than Hannah has paid before.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="B" />
+<label><input type="radio" name="q3" value="B" />
 B. Subsidised for students by the university.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="C" />
+<label><input type="radio" name="q3" value="C" />
 C. Expensive for where it is. 
 </label>
 </p>
@@ -110,19 +114,19 @@ C. Expensive for where it is.
   <p><strong>QUESTION 4.</strong> Hannah is currently</p>
   
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="A" />
+<label><input type="radio" name="q4" value="A" />
 A. In hotel accommodation.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="B" />
+<label><input type="radio" name="q4" value="B" />
 B. Being put up by friends.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="C" />
+<label><input type="radio" name="q4" value="C" />
 C. Staying in a student hostel.
 </label>
 </p>
@@ -133,29 +137,25 @@ C. Staying in a student hostel.
   <p><strong>QUESTION 5.</strong> The place where Hannah’s new accommodation is located is </p>
   
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="A" />
+<label><input type="radio" name="q5" value="A" />
 A. Lively.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="B" />
+<label><input type="radio" name="q5" value="B" />
 B. Peaceful.
 </label>
 </p>
 
 <p>
-<label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="C" />
+<label><input type="radio" name="q5" value="C" />
 C. central.
 </label>
 </p>
 
 </div>
 
-
-      <p style={{ marginTop: 20 }}>
-        <em>You will hear the recording ONCE only.</em>
-      </p>
 
     </ExamLayout>
   );
