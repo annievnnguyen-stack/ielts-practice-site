@@ -10,11 +10,12 @@ export default function Listening() {
 
       <p>Look at questions 1 to 5. </p>
 
+      <p style={{ marginTop: 20 }}>
       <p><em>Example </em></p>
 <p>Hannah’s father</p>
 <p><strong>A</strong> says her mother says hello.</p>
-<strong>B</strong> cannot hear her very well. 
-<strong>C</strong> wants her to video-call him. 
+<strong>B</strong> cannot hear her very well.</p>
+<strong>C</strong> wants her to video-call him.</p>
 
 
 
@@ -31,31 +32,45 @@ export default function Listening() {
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>Name:</td>
+            <td>Example</td>
             <td>
-              <input type="text" placeholder="1 _______" />
+              <input type="text" placeholder="0 B" />
             </td>
           </tr>
 
           <tr>
-            <td>Student ID:</td>
+            <td>Question 1</td>
             <td>
-              <input type="text" placeholder="2 _______" />
+              <input type="text" placeholder="1 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Course:</td>
+            <td>Question 2</td>
             <td>
-              <input type="text" placeholder="3 _______" />
+              <input type="text" placeholder="2 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Library card valid for:</td>
+            <td>Question 3</td>
             <td>
-              <input type="text" placeholder="4 _______ months" />
+              <input type="text" placeholder="3 _" />
             </td>
+          </tr>
+
+          <tr>
+            <td>Question 4</td>
+            <td>
+              <input type="text" placeholder="4 _" />
+            </td>
+
+          <tr>
+            <td>Question 5</td>
+            <td>
+              <input type="text" placeholder="5 _" />
+            </td>
+
           </tr>
         </tbody>
       </table>
