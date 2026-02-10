@@ -36,30 +36,30 @@ export default function Listening() {
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>Name:</td>
+            <td>Question 1</td>
             <td>
-              <input type="text" placeholder="1 _______" />
+              <input type="text" placeholder="1 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Student ID:</td>
+            <td>Question 2</td>
             <td>
-              <input type="text" placeholder="2 _______" />
+              <input type="text" placeholder="2 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Course:</td>
+            <td>Question 3</td>
             <td>
-              <input type="text" placeholder="3 _______" />
+              <input type="text" placeholder="3 _" />
             </td>
           </tr>
 
           <tr>
-            <td>Library card valid for:</td>
+            <td>Question 4</td>
             <td>
-              <input type="text" placeholder="4 _______ months" />
+              <input type="text" placeholder="4 _" />
             </td>
           </tr>
         </tbody>
