@@ -43,19 +43,19 @@ export default function Listening() {
  
 <p>
 <label><input type="radio" name="q1" value="A" />
-A. Not more than two weeks. 
+ A. Not more than two weeks. 
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q1" value="B" />
-B. Less than three weeks.
+ B. Less than three weeks.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q1" value="C" />
-C. More than four weeks. 
+ C. More than four weeks. 
 </label>
 </p>
 
@@ -67,19 +67,19 @@ C. More than four weeks.
 
 <p>
 <label><input type="radio" name="q2" value="A" />
-A. It is the end of the academic year.
+ A. It is the end of the academic year.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q2" value="B" />
-B. The town is not very big. 
+ B. The town is not very big. 
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q2" value="C" />
-C. There are many new technology companies locally. 
+ C. There are many new technology companies locally. 
 </label>
 </p>
 
@@ -90,19 +90,19 @@ C. There are many new technology companies locally.
   
 <p>
 <label><input type="radio" name="q3" value="A" />
-A. Less than Hannah has paid before.
+ A. Less than Hannah has paid before.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q3" value="B" />
-B. Subsidised for students by the university.
+ B. Subsidised for students by the university.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q3" value="C" />
-C. Expensive for where it is. 
+ C. Expensive for where it is. 
 </label>
 </p>
 
@@ -115,19 +115,19 @@ C. Expensive for where it is.
   
 <p>
 <label><input type="radio" name="q4" value="A" />
-A. In hotel accommodation.
+ A. In hotel accommodation.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q4" value="B" />
-B. Being put up by friends.
+ B. Being put up by friends.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q4" value="C" />
-C. Staying in a student hostel.
+ C. Staying in a student hostel.
 </label>
 </p>
 
@@ -138,19 +138,19 @@ C. Staying in a student hostel.
   
 <p>
 <label><input type="radio" name="q5" value="A" />
-A. Lively.
+ A. Lively.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q5" value="B" />
-B. Peaceful.
+ B. Peaceful.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q5" value="C" />
-C. central.
+ C. central.
 </label>
 </p>
 
