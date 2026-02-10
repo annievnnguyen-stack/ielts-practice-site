@@ -61,7 +61,7 @@ export default function Listening() {
 
 </div>
 
-<div style={{ marginBottom: 20 }}>
+<div style={{ marginTop: 20 }}>
   <p><strong>QUESTION 2.</strong> According to Hannah, there is a lack rental accommodation because  
 </p>
 
@@ -85,7 +85,7 @@ export default function Listening() {
 
 </div>
 
-<div style={{ marginBottom: 20 }}>
+<div style={{ marginTop: 20 }}>
   <p><strong>QUESTION 3.</strong> The £400 rent is </p>
   
 <p>
@@ -110,7 +110,7 @@ export default function Listening() {
 
 </div>
 
-<div style={{ marginBottom: 20 }}>
+<div style={{ marginTop: 20 }}>
   <p><strong>QUESTION 4.</strong> Hannah is currently</p>
   
 <p>
@@ -133,7 +133,7 @@ export default function Listening() {
 
 </div>
 
-<div style={{ marginBottom: 20 }}>
+<div style={{ marginTop: 20 }}>
   <p><strong>QUESTION 5.</strong> The place where Hannah’s new accommodation is located is </p>
   
 <p>
