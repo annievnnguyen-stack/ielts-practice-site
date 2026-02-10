@@ -6,7 +6,11 @@ export default function Listening() {
       
       <p><strong>Instructions </strong></p>
       <p>
-        You will hear a telephone conversation between a father and his daughter Hannah about renting a flat. Look at questions 1 to 5. You will see that there is an example that has been done for you. Type <strong>A or B or C in the box </strong>.
+        You will hear a telephone conversation between a father and his daughter Hannah about renting a flat. 
+
+You will see that there is an example that has been done for you. 
+
+Look at questions 1 to 5. Type the appropriate letters <strong>A or B or C in the box </strong>.
       </p>
 
       {/* Audio */}
