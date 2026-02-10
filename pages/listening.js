@@ -150,7 +150,7 @@ export default function Listening() {
 
 <p>
 <label><input type="radio" name="q5" value="C" />
- <strong> C</strong> central.
+ <strong> C</strong> Central.
 </label>
 </p>
 
