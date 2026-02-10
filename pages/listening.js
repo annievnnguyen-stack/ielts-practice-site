@@ -10,9 +10,10 @@ export default function Listening() {
 
       <p>Look at questions 1 to 5. </p>
 
-      <p style={{ marginTop: 20 }}>
-      <em>Example</em>
-      </p>
+
+<p>
+<em>Example</em>
+</p>
 
 <p>Hannah’s father</p>
 <p><strong>A</strong> says her mother says hello.</p>
