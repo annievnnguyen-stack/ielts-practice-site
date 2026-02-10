@@ -16,7 +16,7 @@ export default function Listening() {
 </p>
 
 <p>Hannah’s father</p>
-<p><strong>A</strong> says hello to her mother.</p>
+<p><strong>A</strong> says hello to ANNIE.</p>
 <p><strong>B</strong> cannot hear her very well.</p>
 <p><strong>C</strong> wants her to video-call him.</p>
 
