@@ -34,31 +34,94 @@ export default function Listening() {
      <h3>Choose the correct answer (A, B or C)</h3>
 
 <div style={{ marginBottom: 20 }}>
-  <p><strong>1.</strong></p>
-  <label><input type="radio" name="q1" value="A" /> A</label><br />
-  <label><input type="radio" name="q1" value="B" /> B</label><br />
-  <label><input type="radio" name="q1" value="C" /> C</label>
+<p><strong>QUESTION 1. </strong> How long did Hannah think it would be before she found a place to live?
+</p>
+ 
+
+<label><input type="radio" name="q1" value="A" />
+A. Not more than two weeks. 
+</label>
+
+<label><input type="radio" name="q1" value="B" />
+B. Less than three weeks.
+</label>
+
+<label><input type="radio" name="q1" value="C" />
+C. More than four weeks. 
+</label>
+
 </div>
 
 <div style={{ marginBottom: 20 }}>
-  <p><strong>2.</strong></p>
-  <label><input type="radio" name="q2" value="A" /> A</label><br />
-  <label><input type="radio" name="q2" value="B" /> B</label><br />
-  <label><input type="radio" name="q2" value="C" /> C</label>
+  <p><strong>QUESTION 2.</strong> According to Hannah, there is a lack rental accommodation because  
+</p>
+
+<label><input type="radio" name="q2" value="A" />
+A. It is the end of the academic year.
+</label>
+
+<label><input type="radio" name="q2" value="B" />
+B. The town is not very big. 
+</label>
+
+<label><input type="radio" name="q2" value="C" />
+C. There are many new technology companies locally. 
+</label>
+
+
 </div>
 
 <div style={{ marginBottom: 20 }}>
-  <p><strong>3.</strong></p>
-  <label><input type="radio" name="q3" value="A" /> A</label><br />
-  <label><input type="radio" name="q3" value="B" /> B</label><br />
-  <label><input type="radio" name="q3" value="C" /> C</label>
+  <p><strong>QUESTION 3.</strong> The £400 rent is </p>
+  
+<label><input type="radio" name="q3" value="A" />
+A. Less than Hannah has paid before.
+</label>
+
+<label><input type="radio" name="q3" value="B" />
+B. Subsidised for students by the university.
+</label>
+
+<label><input type="radio" name="q3" value="C" />
+C. Expensive for where it is. 
+</label>
+
+
+
 </div>
 
 <div style={{ marginBottom: 20 }}>
-  <p><strong>4.</strong></p>
-  <label><input type="radio" name="q4" value="A" /> A</label><br />
-  <label><input type="radio" name="q4" value="B" /> B</label><br />
-  <label><input type="radio" name="q4" value="C" /> C</label>
+  <p><strong>QUESTION 4.</strong> Hannah is currently</p>
+  
+<label><input type="radio" name="q4" value="A" />
+A. In hotel accommodation.
+</label>
+
+<label><input type="radio" name="q4" value="B" />
+B. Being put up by friends.
+</label>
+
+<label><input type="radio" name="q4" value="C" />
+C. Staying in a student hostel.
+</label>
+
+</div>
+
+<div style={{ marginBottom: 20 }}>
+  <p><strong>QUESTION 5.</strong> The place where Hannah’s new accommodation is located is </p>
+  
+<label><input type="radio" name="q5" value="A" />
+A. Lively.
+</label>
+
+<label><input type="radio" name="q5" value="B" />
+B. Peaceful.
+</label>
+
+<label><input type="radio" name="q5" value="C" />
+C. central.
+</label>
+
 </div>
 
 
