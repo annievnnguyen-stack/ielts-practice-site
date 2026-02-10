@@ -8,6 +8,15 @@ export default function Listening() {
 
       <p>You will hear a telephone conversation between a father and his daughter Hannah about renting a flat. </p>
 
+      <p>Look at questions 1 to 5. </p>
+
+      <p><em>Example </em></p>
+<p>Hannah’s father</p>
+<p><strong>A</strong> says her mother says hello.</p>
+<strong>B</strong> cannot hear her very well. 
+<strong>C</strong> wants her to video-call him. 
+
+
 
       {/* Audio */}
       <audio controls style={{ width: "100%", margin: "20px 0" }}>
