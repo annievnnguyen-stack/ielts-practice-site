@@ -37,18 +37,23 @@ export default function Listening() {
 <p><strong>QUESTION 1. </strong> How long did Hannah think it would be before she found a place to live?
 </p>
  
-
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="A" />
 A. Not more than two weeks. 
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="B" />
 B. Less than three weeks.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q1" value="C" />
 C. More than four weeks. 
 </label>
+</p>
 
 </div>
 
@@ -56,35 +61,46 @@ C. More than four weeks.
   <p><strong>QUESTION 2.</strong> According to Hannah, there is a lack rental accommodation because  
 </p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="A" />
 A. It is the end of the academic year.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="B" />
 B. The town is not very big. 
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q2" value="C" />
 C. There are many new technology companies locally. 
 </label>
-
+</p>
 
 </div>
 
 <div style={{ marginBottom: 20 }}>
   <p><strong>QUESTION 3.</strong> The £400 rent is </p>
   
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="A" />
 A. Less than Hannah has paid before.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="B" />
 B. Subsidised for students by the university.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q3" value="C" />
 C. Expensive for where it is. 
 </label>
+</p>
 
 
 
@@ -93,34 +109,46 @@ C. Expensive for where it is.
 <div style={{ marginBottom: 20 }}>
   <p><strong>QUESTION 4.</strong> Hannah is currently</p>
   
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="A" />
 A. In hotel accommodation.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="B" />
 B. Being put up by friends.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q4" value="C" />
 C. Staying in a student hostel.
 </label>
+</p>
 
 </div>
 
 <div style={{ marginBottom: 20 }}>
   <p><strong>QUESTION 5.</strong> The place where Hannah’s new accommodation is located is </p>
   
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="A" />
 A. Lively.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="B" />
 B. Peaceful.
 </label>
+</p>
 
+<p>
 <label style={{ display: "block", marginBottom: "6px" }}><input type="radio" name="q5" value="C" />
 C. central.
 </label>
+</p>
 
 </div>
 
