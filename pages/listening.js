@@ -35,9 +35,9 @@ export default function Listening() {
 
  {/* Questions */}
 
-     <h3 style={{ marginBottom: 20 }}>Choose the correct answer (A, B or C)</h3>
+     <h3>Choose the correct answer (A, B or C)</h3>
 
-<div style={{ marginBottom: 20 }}>
+<div style={{ marginTop: 20 }}>
 <p><strong>QUESTION 1. </strong> How long did Hannah think it would be before she found a place to live?
 </p>
  
