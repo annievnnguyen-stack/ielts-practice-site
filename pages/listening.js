@@ -31,48 +31,35 @@ export default function Listening() {
  {/* Questions */}
       <h3>Type your answers in the box</h3>
 
+
       <table style={{ width: "100%", borderCollapse: "collapse" }}>
         <tbody>
           <tr>
-            <td>Example</td>
+            <td>Name:</td>
             <td>
-              <input type="text" placeholder="0 B" />
+              <input type="text" placeholder="1 _______" />
             </td>
           </tr>
 
           <tr>
-            <td>Question 1</td>
+            <td>Student ID:</td>
             <td>
-              <input type="text" placeholder="1 _" />
+              <input type="text" placeholder="2 _______" />
             </td>
           </tr>
 
           <tr>
-            <td>Question 2</td>
+            <td>Course:</td>
             <td>
-              <input type="text" placeholder="2 _" />
+              <input type="text" placeholder="3 _______" />
             </td>
           </tr>
 
           <tr>
-            <td>Question 3</td>
+            <td>Library card valid for:</td>
             <td>
-              <input type="text" placeholder="3 _" />
+              <input type="text" placeholder="4 _______ months" />
             </td>
-          </tr>
-
-          <tr>
-            <td>Question 4</td>
-            <td>
-              <input type="text" placeholder="4 _" />
-            </td>
-
-          <tr>
-            <td>Question 5</td>
-            <td>
-              <input type="text" placeholder="5 _" />
-            </td>
-
           </tr>
         </tbody>
       </table>
