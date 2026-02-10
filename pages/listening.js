@@ -42,20 +42,20 @@ export default function Listening() {
 </p>
  
 <p>
-<label style={{ marginLeft: "20px" }}><input type="radio" name="q1" value="A" />
- <strong>A</strong> Not more than two weeks. 
+<label><input type="radio" name="q1" value="A" />
+ <strong> A</strong> Not more than two weeks. 
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q1" value="B" />
- <strong>B</strong> Less than three weeks.
+ <strong> B</strong> Less than three weeks.
 </label>
 </p>
 
 <p>
 <label><input type="radio" name="q1" value="C" />
- <strong>C</strong> More than four weeks. 
+ <strong> C</strong> More than four weeks. 
 </label>
 </p>
 
