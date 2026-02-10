@@ -11,12 +11,12 @@ export default function Listening() {
       <p>Look at questions 1 to 5. </p>
 
 
-<p>
+<p> style={{ marginTop: 20 }}>
 <em>Example</em>
 </p>
 
 <p>Hannah’s father</p>
-<p><strong>A</strong> says her mother says hello.</p>
+<p><strong>A</strong> says hello to her mother.</p>
 <p><strong>B</strong> cannot hear her very well.</p>
 <p><strong>C</strong> wants her to video-call him.</p>
 
