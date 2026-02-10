@@ -55,7 +55,7 @@ export default function Listening() {
 
 <p>
 <label><input type="radio" name="q1" value="C" />
- <strong>B</strong> More than four weeks. 
+ <strong>C</strong> More than four weeks. 
 </label>
 </p>
 
