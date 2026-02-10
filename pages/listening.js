@@ -4,10 +4,9 @@ export default function Listening() {
   return (
     <ExamLayout title="IELTS Listening" timeInMinutes={30}>
       
-      <p><strong>ANNIE TO CHANGE</strong></p>
+      <p><strong>Instructions</strong></p>
       <p>
-        You will hear a conversation between a student and a receptionist.
-        Complete the form below. Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong>.
+        You will hear a telephone conversation between a father and his daughter Hannah about renting a flat. You will see that there is an example that has been done for you. Type the appropriate <strong>ANSWERS A or B or C in the box </strong>.
       </p>
 
       {/* Audio */}
